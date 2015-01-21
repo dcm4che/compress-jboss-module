@@ -1,0 +1,1 @@
+# compress-jboss-module
